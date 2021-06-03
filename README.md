@@ -1,2 +1,2 @@
 # Login-Register-API
-create an API using Node.js and express.js for register and login with generate a auth token
+create an API using Node.js and express.js for register and login with generate a auth token using mysql as database
